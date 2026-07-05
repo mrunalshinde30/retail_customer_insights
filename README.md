@@ -169,6 +169,3 @@ Through this project, I gained hands-on experience in the complete data analytic
 
 **Mrunal Shinde**
 
-B.Tech Student | Aspiring Data Analyst
-
-If you found this project interesting, feel free to ⭐ this repository.
